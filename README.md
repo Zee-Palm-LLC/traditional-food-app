@@ -1,16 +1,10 @@
-# samosa_food_app
+# Zee Palm UI Code
 
-A new Flutter project.
+Traditional Food App UI done with Flutter 3.7.0
 
-## Getting Started
+## Details
 
-This project is a starting point for a Flutter application.
+This project includes Traditional Food App UI with multiple screens.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/128903428/235441178-7e627bb8-89a1-48d7-a20a-73999584c1b6.png" width="200" height="400" />
+<img src="![image](https://user-images.githubusercontent.com/128903428/235441257-64abf396-dd36-4e94-b818-da1fe32431f1.png)" height="400" />
